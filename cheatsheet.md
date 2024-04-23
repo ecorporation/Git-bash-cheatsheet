@@ -60,7 +60,7 @@
 
 ### Change branch
 
-```git checkout testing``` :  Switches to the branch `[BRANCH NAME]`.
+```git checkout [BRANCH NAME]``` :  Switches to the branch `[BRANCH NAME]`.
 
 ### Delete branch
 
@@ -68,7 +68,7 @@
 
 ### Create and change branch
 
-```git checkout -b testing``` :  Creates and switches to a new branch named `[BRANCH NAME]`.
+```git checkout -b [BRANCH NAME]``` :  Creates and switches to a new branch named `[BRANCH NAME]`.
 
 ### Merge branch
 
